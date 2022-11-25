@@ -18,3 +18,5 @@ Repositorio:Hecho en GitHub<br>
 ## Datos personales:
 Nombre:[Jerson Danilo García ortíz](https://github.com/ScratchRobin/Proyectoventas.git)<br>
 Clave:9<br>
+Carrera:Computación<br>
+Grado:5to Bachillerato <br>
